@@ -25,3 +25,4 @@
 
 ![Driss' GitHub stats](https://github-readme-stats.vercel.app/api?username=svekars&count_private=true&show_icons=true&theme=graywhite)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=svekars&theme=graywhite)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=svekars&show_icons=true&locale=en&layout=compact&theme=chartreuse-white)
