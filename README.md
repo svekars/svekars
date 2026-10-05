@@ -2,7 +2,7 @@
 
 - Information Solutions Engineer at Meta, working on [PyTorch](https://github.com/pytorch/pytorch)
 - I work on docs.pytorch.org and the tooling that surrounds it
-- Lately: AI-native developer documentation, LLM-grounded retrieval over docs, and how to measure whether any of it actually helps developers
+- AI-native developer documentation, LLM-grounded retrieval over docs, and how to measure whether any of it actually helps 
 - Co-author of [The 99% Success Paradox: When Near-Perfect Retrieval Equals Random Selection](https://arxiv.org/abs/2605.18857), on how high recall scores can mask near-random selectivity in production RAG
 
 <h3 align="left">Connect with me:</h3>
